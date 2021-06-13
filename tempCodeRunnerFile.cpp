@@ -1,2 +1,2 @@
-	int result = shortestBridge(grid);
-	cout << "result: " << result << endl;
+
+	unordered_set<string> dict(wordList.begin(), wordList.end());
